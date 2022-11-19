@@ -1,0 +1,8 @@
+baseURL: 'https://carsofspokane.com'
+languageCode: 'en-us'
+title: 'Cars of Spokane'
+theme: 'PaperMod'
+
+Params:
+  label:
+    icon: '/monterocircle.svg'
