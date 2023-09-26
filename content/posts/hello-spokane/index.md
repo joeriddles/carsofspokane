@@ -8,4 +8,4 @@ cover:
     relative: true
 ---
 
-This is the first post of _Cars of Spokane_, a new blog whose purpose is to share Spokane car-owners' stories.
+This is the first post of _Cars of Spokane_, a new blog whose purpose is to share the stories of Spokane car owners.
